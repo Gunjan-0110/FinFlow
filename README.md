@@ -36,9 +36,3 @@ To get a local copy up and running, follow these simple steps.
 
 * [Git](https://git-scm.com/downloads) for cloning the repository.
 
-### Installation
-
-1. **Clone the repository** into your web server's root directory (e.g., `htdocs` in XAMPP):
-
-   ```sh
-   git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/[YOUR_REPOSITORY_NAME].git
