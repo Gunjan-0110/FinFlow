@@ -26,13 +26,4 @@ This project is a full-stack application built with the following technologies:
 
 * **Database:** `MySQL`
 
-## ⚙️ Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-* A web server environment like [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](http://www.wampserver.com/en/) which includes PHP and MySQL.
-
-* [Git](https://git-scm.com/downloads) for cloning the repository.
 
